@@ -1,0 +1,83 @@
+[
+    {
+      "title": "Which of the following is a real-time operating system?",
+      "answer1": "Windows 10",
+      "answer2": "Linux",
+      "answer3": "RTOS",
+      "answer4": "macOS",
+      "rightAnswer": "RTOS"
+    },
+    {
+      "title": "What is the main function of an operating system?",
+      "answer1": "To compile code",
+      "answer2": "To manage hardware and software resources",
+      "answer3": "To design websites",
+      "answer4": "To calculate mathematical problems",
+      "rightAnswer": "To manage hardware and software resources"
+    },
+    {
+      "title": "Which of the following is NOT an operating system?",
+      "answer1": "UNIX",
+      "answer2": "Oracle",
+      "answer3": "Linux",
+      "answer4": "Windows",
+      "rightAnswer": "Oracle"
+    },
+    {
+      "title": "What is the purpose of the kernel in an operating system?",
+      "answer1": "To run web browsers",
+      "answer2": "To manage system resources and communication between hardware and software",
+      "answer3": "To display graphics",
+      "answer4": "To execute Java programs",
+      "rightAnswer": "To manage system resources and communication between hardware and software"
+    },
+    {
+      "title": "Which of the following is used for memory management in an operating system?",
+      "answer1": "Scheduler",
+      "answer2": "Memory allocator",
+      "answer3": "Resource manager",
+      "answer4": "Memory manager",
+      "rightAnswer": "Memory manager"
+    },
+    {
+      "title": "What is a deadlock in an operating system?",
+      "answer1": "A type of scheduling algorithm",
+      "answer2": "A situation where processes are waiting indefinitely for resources",
+      "answer3": "A program that never executes",
+      "answer4": "A special type of virus",
+      "rightAnswer": "A situation where processes are waiting indefinitely for resources"
+    },
+    {
+      "title": "Which of these operating systems is open source?",
+      "answer1": "Windows",
+      "answer2": "macOS",
+      "answer3": "Linux",
+      "answer4": "iOS",
+      "rightAnswer": "Linux"
+    },
+    {
+      "title": "What does the 'ls' command do in UNIX/Linux?",
+      "answer1": "Lists all files and directories",
+      "answer2": "Opens a file",
+      "answer3": "Deletes a file",
+      "answer4": "Compiles a program",
+      "rightAnswer": "Lists all files and directories"
+    },
+    {
+      "title": "Which of the following is NOT a type of operating system?",
+      "answer1": "Batch operating system",
+      "answer2": "Distributed operating system",
+      "answer3": "Network operating system",
+      "answer4": "Multitask operating system",
+      "rightAnswer": "Multitask operating system"
+    },
+    {
+      "title": "Which command is used to terminate a process in UNIX/Linux?",
+      "answer1": "kill",
+      "answer2": "start",
+      "answer3": "delete",
+      "answer4": "end",
+      "rightAnswer": "kill"
+    }
+  ]
+  
